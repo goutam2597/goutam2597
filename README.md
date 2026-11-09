@@ -57,31 +57,56 @@ packages: [snackbar_flutter, circular_progress_with_logo]  # pub.dev
 ## 🚀 Featured Projects
 
 <div align="center">
-<table>
-<tr>
-<td><a href="https://github.com/goutam2597/snackbar_flutter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=goutam2597&repo=snackbar_flutter&title_color=02569B&icon_color=027DFD&text_color=555555&bg_color=FFFFFF&hide_border=false&border_color=E1E4E8" alt="snackbar_flutter" /></a></td>
-<td><a href="https://github.com/goutam2597/pos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=goutam2597&repo=pos&title_color=02569B&icon_color=027DFD&text_color=555555&bg_color=FFFFFF&hide_border=false&border_color=E1E4E8" alt="MonoPOS" /></a></td>
-</tr>
-<tr>
-<td><a href="https://github.com/goutam2597/mono-lms"><img src="https://github-readme-stats.vercel.app/api/pin/?username=goutam2597&repo=mono-lms&title_color=02569B&icon_color=027DFD&text_color=555555&bg_color=FFFFFF&hide_border=false&border_color=E1E4E8" alt="mono-lms" /></a></td>
-<td><a href="https://github.com/goutam2597/g-panel"><img src="https://github-readme-stats.vercel.app/api/pin/?username=goutam2597&repo=g-panel&title_color=02569B&icon_color=027DFD&text_color=555555&bg_color=FFFFFF&hide_border=false&border_color=E1E4E8" alt="g-panel" /></a></td>
-</tr>
-</table>
 
-<br/>
+<h3>💙 snackbar_flutter</h3>
+<p><b>24 ready-made snackbar styles for Flutter</b><br/>glassmorphism, neon, pixel-art and more — fully themeable.</p>
+<p>
+<a href="https://pub.dev/packages/snackbar_flutter"><img src="https://img.shields.io/pub/v/snackbar_flutter?logo=dart&color=02569B&style=flat-square&label=pub.dev" alt="pub version" /></a>
+<a href="https://pub.dev/packages/snackbar_flutter/score"><img src="https://img.shields.io/pub/likes/snackbar_flutter?logo=dart&color=0175C2&style=flat-square&label=likes" alt="pub likes" /></a>
+<a href="https://pub.dev/packages/snackbar_flutter/score"><img src="https://img.shields.io/pub/points/snackbar_flutter?logo=dart&color=027DFD&style=flat-square&label=points" alt="pub points" /></a>
+<a href="https://github.com/goutam2597/snackbar_flutter"><img src="https://img.shields.io/github/stars/goutam2597/snackbar_flutter?style=flat-square&logo=github&color=181717&label=stars" alt="GitHub stars" /></a>
+<a href="https://github.com/goutam2597/snackbar_flutter"><img src="https://img.shields.io/github/license/goutam2597/snackbar_flutter?style=flat-square&color=2ea44f&label=license" alt="license" /></a>
+</p>
+<p><sub>Dart &nbsp;·&nbsp; v1.0.2 &nbsp;·&nbsp; MIT</sub></p>
 
-<img src="https://img.shields.io/badge/60%2B_more_repos-2ea44f?style=flat-square&logo=github&logoColor=white" alt="60+ more repos" />
+<hr/>
+
+<h3>🎯 circular_progress_with_logo</h3>
+<p><b>Branded circular progress indicators</b><br/>wrap any Flutter loading spinner with your own logo.</p>
+<p>
+<a href="https://pub.dev/packages/circular_progress_with_logo"><img src="https://img.shields.io/pub/v/circular_progress_with_logo?logo=dart&color=02569B&style=flat-square&label=pub.dev" alt="pub version" /></a>
+<a href="https://pub.dev/packages/circular_progress_with_logo/score"><img src="https://img.shields.io/pub/likes/circular_progress_with_logo?logo=dart&color=0175C2&style=flat-square&label=likes" alt="pub likes" /></a>
+<a href="https://pub.dev/packages/circular_progress_with_logo/score"><img src="https://img.shields.io/pub/points/circular_progress_with_logo?logo=dart&color=027DFD&style=flat-square&label=points" alt="pub points" /></a>
+<a href="https://github.com/goutam2597/cpi_with_logo"><img src="https://img.shields.io/github/stars/goutam2597/cpi_with_logo?style=flat-square&logo=github&color=181717&label=stars" alt="GitHub stars" /></a>
+<a href="https://github.com/goutam2597/cpi_with_logo"><img src="https://img.shields.io/github/license/goutam2597/cpi_with_logo?style=flat-square&color=2ea44f&label=license" alt="license" /></a>
+</p>
+<p><sub>Dart &nbsp;·&nbsp; v1.0.0</sub></p>
+
+<hr/>
+
+<p><sub><b>More projects:</b>
+<a href="https://github.com/goutam2597/mono-lms">mono-lms</a> ·
+<a href="https://github.com/goutam2597/g-panel">g-panel</a> ·
+<a href="https://github.com/goutam2597/pos">MonoPOS</a> ·
+<a href="https://github.com/goutam2597/BillLens">BillLens</a> ·
+<a href="https://github.com/goutam2597/evento">evento</a> ·
+<a href="https://github.com/goutam2597?tab=repositories">all 72 →</a>
+</sub></p>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 By the Numbers
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=goutam2597&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&title_color=02569B&icon_color=027DFD&text_color=555555&bg_color=FFFFFF&hide_border=false&border_color=E1E4E8" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goutam2597&layout=compact&langs_count=8&title_color=02569B&text_color=555555&bg_color=FFFFFF&hide_border=false&border_color=E1E4E8" alt="Top languages" />
+<p>
+<a href="https://github.com/goutam2597"><img src="https://img.shields.io/github/followers/goutam2597?style=flat-square&logo=github&color=02569B" alt="followers" /></a>
+<a href="https://github.com/goutam2597?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/goutam2597&label=Public%20Repos&query=$.public_repos&color=02569B&style=flat-square&logo=github" alt="public repos" /></a>
+<a href="https://github.com/goutam2597/snackbar_flutter/stargazers"><img src="https://img.shields.io/github/stars/goutam2597/snackbar_flutter?style=flat-square&logo=github&color=181717&label=Top%20Repo%20Stars" alt="top repo stars" /></a>
+<a href="https://pub.dev/packages/snackbar_flutter"><img src="https://img.shields.io/pub/v/snackbar_flutter?style=flat-square&logo=dart&color=0175C2&label=Published%20Packages" alt="published packages" /></a>
+</p>
 
 </div>
 
